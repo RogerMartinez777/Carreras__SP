@@ -1,0 +1,227 @@
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.csproj.AssemblyReference.cache
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.csproj.SuggestedBindingRedirects.cache
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.Presentacion.frmNuevaCarrera.resources
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.Presentacion.frmPrincipal.resources
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.Properties.Resources.resources
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.csproj.GenerateResource.cache
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.csproj.CoreCompileInputs.cache
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP\Carreras__SP\bin\Debug\Carreras__SP.exe.config
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP\Carreras__SP\bin\Debug\Carreras__SP.exe
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP\Carreras__SP\bin\Debug\Carreras__SP.pdb
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.exe
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.pdb
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.Presentacion.frmConsultarCarrera.resources
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP\Carreras__SP\Carreras__SP\bin\Debug\Carreras__SP.exe.config
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP\Carreras__SP\Carreras__SP\bin\Debug\Carreras__SP.exe
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP\Carreras__SP\Carreras__SP\bin\Debug\Carreras__SP.pdb
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.csproj.AssemblyReference.cache
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.csproj.SuggestedBindingRedirects.cache
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.Presentacion.frmConsultarCarrera.resources
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.Presentacion.frmNuevaCarrera.resources
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.Presentacion.frmPrincipal.resources
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.Properties.Resources.resources
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.csproj.GenerateResource.cache
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.csproj.CoreCompileInputs.cache
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.exe
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.pdb
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\bin\Debug\Carreras__SP.exe.config
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\bin\Debug\Carreras__SP.exe
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\bin\Debug\Carreras__SP.pdb
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\bin\Debug\EnvDTE.dll
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\bin\Debug\stdole.dll
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.csproj.AssemblyReference.cache
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.csproj.SuggestedBindingRedirects.cache
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.Presentacion.frmConsultarCarrera.resources
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.Presentacion.frmNuevaCarrera.resources
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.Presentacion.frmPrincipal.resources
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.Presentacion.frmReporteCarrera.resources
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.Properties.Resources.resources
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.csproj.GenerateResource.cache
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.csproj.CoreCompileInputs.cache
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.csproj.CopyComplete
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.exe
+C:\Users\djneo\OneDrive\Escritorio\Carreras__SP\Carreras__SP_Semana_04\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.pdb
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\Carreras__SP.exe.config
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\Carreras__SP.exe
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\Carreras__SP.pdb
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\EnvDTE.dll
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\stdole.dll
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.csproj.AssemblyReference.cache
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.csproj.SuggestedBindingRedirects.cache
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.Presentacion.frmConsultarCarrera.resources
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.Presentacion.frmNuevaCarrera.resources
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.Presentacion.frmPrincipal.resources
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.Presentacion.frmReporteCarrera.resources
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.Properties.Resources.resources
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.csproj.GenerateResource.cache
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.csproj.CoreCompileInputs.cache
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.csproj.CopyComplete
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.exe
+D:\----- T U P   P I I -----\Proyectos Visual Studio\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.pdb
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\Carreras__SP.exe.config
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\Carreras__SP.exe
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\Carreras__SP.pdb
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\EnvDTE.dll
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\stdole.dll
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.csproj.AssemblyReference.cache
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.csproj.SuggestedBindingRedirects.cache
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.Presentacion.frmConsultarCarrera.resources
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.Presentacion.frmNuevaCarrera.resources
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.Presentacion.frmPrincipal.resources
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.Presentacion.frmReporteCarrera.resources
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.Properties.Resources.resources
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.csproj.GenerateResource.cache
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.csproj.CoreCompileInputs.cache
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.csproj.CopyComplete
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.exe
+D:\----- T U P   P I I -----\----- Proyectos Visual Studio -----\Carreras__SP_Semana_05\Carreras__SP\Carreras__SP\obj\Debug\Carreras__SP.pdb
